@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBPJl-4OaZV_LYF8S-pt7ljyCOK2eei450",
-  authDomain: "fb-crud-957dc.firebaseapp.com",
-  projectId: "fb-crud-957dc",
-  storageBucket: "fb-crud-957dc.appspot.com",
-  messagingSenderId: "641135050863",
-  appId: "1:641135050863:web:f8af296975112ff8bd4d9a",
+  apiKey: "AIzaSyC_LMOT8UeuuJaFuSRIXT16FD2O-3yngaU",
+  authDomain: "test-4c743.firebaseapp.com",
+  projectId: "test-4c743",
+  storageBucket: "test-4c743.appspot.com",
+  messagingSenderId: "1066909888138",
+  appId: "1:1066909888138:web:d14043213afa101f888773"
 };
 
 const app = initializeApp(firebaseConfig);
